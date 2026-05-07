@@ -8,7 +8,7 @@ Gift Comfort to your Comfort 💝
 
 ## ✨ Live Demo
 
-🔗 **[View Live Site →](#)** _https://shopify-mothers-day-storefront.vercel.app/_
+🔗 **(#)** _https://shopify-mothers-day-storefront.vercel.app/_
 
 ---
 
