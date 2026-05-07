@@ -8,21 +8,10 @@ Gift Comfort to your Comfort 💝
 
 ## ✨ Live Demo
 
-🔗 **(#)** _https://shopify-mothers-day-storefront.vercel.app/_
+🔗  _https://shopify-mothers-day-storefront.vercel.app/_
 
 ---
 
-## 📸 Preview
-
-| Hero Banner | Product Grid |
-|:-----------:|:------------:|
-| Elegant serif typography with "M♡ther's Day" | 4-column responsive grid with hover effects |
-
-| Category Tabs | Size Modal |
-|:-------------:|:----------:|
-| Pink stamp-border active state | Slide-up bottom sheet with variant grid |
-
----
 
 ## 🎯 Features
 
@@ -235,31 +224,6 @@ This project fetches **real-time product data** from a Shopify store using the [
 
 ---
 
-## ⚙️ Key Implementation Details
-
-### 🔄 Image Hover Effect
-```
-Primary image → opacity: 0 on hover
-Secondary image → opacity: 1 on hover (crossfade)
-Single image → scale(1.06) zoom effect
-```
-
-### 🛒 Add to Cart Flow
-```
-Click "Add to Cart"
-  → No size selected? → Opens Size Modal
-  → Size selected? → Logs to console + "Added ✓" (2s)
-```
-
-### 📏 Size Selection
-```
-Click "Select Size" → Slide-up modal appears
-  → Available sizes shown as clickable buttons
-  → Unavailable sizes greyed out with strikethrough
-  → Select a size → Modal closes, size shown on card
-```
-
----
 
 
 
