@@ -8,7 +8,7 @@ Gift Comfort to your Comfort 💝
 
 ## ✨ Live Demo
 
-🔗 **[View Live Site →](#)** _(Vercel deployment link)_
+🔗 **[View Live Site →](#)** _https://shopify-mothers-day-storefront.vercel.app/_
 
 ---
 
@@ -261,9 +261,7 @@ Click "Select Size" → Slide-up modal appears
 
 ---
 
-## 📄 License
 
-This project was built as an assignment for a Jr. Software Engineer position. Built with ❤️ by **Samyak Singh**.
 
 ---
 
